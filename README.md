@@ -1,0 +1,1 @@
+# semicolon-in-package-reference
